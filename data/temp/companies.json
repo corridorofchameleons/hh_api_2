@@ -1,0 +1,660 @@
+[
+  {
+    "id": "3302317",
+    "trusted": true,
+    "accredited_it_employer": false,
+    "name": "ARTEL",
+    "type": "company",
+    "description": "<p>                                                                                       <strong>ARTEL - системы управления солнцем</strong></p>   <p>Мы производители уникальных солнцезащитных систем (жалюзи, электрокарнизы, римские и рулонные шторы).</p>   <p>- У нас собственное производство построенное на немецких технологиях</p> <p>- Мы сотрудничаем с ведущими поставщиками комплектующих для солнцезащитных систем из России, Европы, Азии и Америки.</p> <p>- Наши дилеры есть во всех крупных городах России.</p> <p>- Мы ежегодно представляем свою продукцию на выставке MosBuild в Москве.</p> <p>- Нашими клиентами являются такие компании как: Сбербанк России, Газпром нефть, Radisson Blu.</p>",
+    "site_url": "https://proartel.ru",
+    "alternate_url": "https://hh.ru/employer/3302317",
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=3302317",
+    "logo_urls": {
+      "90": "https://img.hhcdn.ru/employer-logo/3747347.png",
+      "original": "https://img.hhcdn.ru/employer-logo-original/826616.png",
+      "240": "https://img.hhcdn.ru/employer-logo/3747348.png"
+    },
+    "relations": [],
+    "area": {
+      "id": "1",
+      "name": "Москва",
+      "url": "https://api.hh.ru/areas/1"
+    },
+    "industries": [],
+    "branded_description": null,
+    "branding": null,
+    "insider_interviews": [],
+    "open_vacancies": 5,
+    "vacancies": [
+      {
+        "id": "83224602",
+        "premium": false,
+        "name": "Менеджер по продажам",
+        "department": null,
+        "has_test": false,
+        "response_letter_required": false,
+        "area": {
+          "id": "1",
+          "name": "Москва",
+          "url": "https://api.hh.ru/areas/1"
+        },
+        "salary": {
+          "from": 100000,
+          "to": null,
+          "currency": "RUR",
+          "gross": false
+        },
+        "type": {
+          "id": "open",
+          "name": "Открытая"
+        },
+        "address": {
+          "city": "Москва",
+          "street": "Научный проезд",
+          "building": "8с1",
+          "lat": 55.655813,
+          "lng": 37.551519,
+          "description": null,
+          "raw": "Москва, Научный проезд, 8с1",
+          "metro": {
+            "station_name": "Калужская",
+            "line_name": "Калужско-Рижская",
+            "station_id": "6.41",
+            "line_id": "6",
+            "lat": 55.656682,
+            "lng": 37.540075
+          },
+          "metro_stations": [
+            {
+              "station_name": "Калужская",
+              "line_name": "Калужско-Рижская",
+              "station_id": "6.41",
+              "line_id": "6",
+              "lat": 55.656682,
+              "lng": 37.540075
+            }
+          ],
+          "id": "14323789"
+        },
+        "response_url": null,
+        "sort_point_distance": null,
+        "published_at": "2024-03-25T09:08:13+0300",
+        "created_at": "2024-03-25T09:08:13+0300",
+        "archived": false,
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=83224602",
+        "show_logo_in_search": null,
+        "insider_interview": null,
+        "url": "https://api.hh.ru/vacancies/83224602?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/83224602",
+        "relations": [],
+        "employer": {
+          "id": "3302317",
+          "name": "ARTEL",
+          "url": "https://api.hh.ru/employers/3302317",
+          "alternate_url": "https://hh.ru/employer/3302317",
+          "logo_urls": {
+            "original": "https://img.hhcdn.ru/employer-logo-original/826616.png",
+            "90": "https://img.hhcdn.ru/employer-logo/3747347.png",
+            "240": "https://img.hhcdn.ru/employer-logo/3747348.png"
+          },
+          "vacancies_url": "https://api.hh.ru/vacancies?employer_id=3302317",
+          "accredited_it_employer": false,
+          "trusted": true
+        },
+        "snippet": {
+          "requirement": "Опыт продаж B2B (товары). Продвинутый пользователь ПК, опыт работы в 1С (желательно конфигурации УТ), опыт работ в...",
+          "responsibility": "Продавать продукцию компании. Прием и обработка заказов, согласование спецификаций. Ведение полного цикла сделки – от первого контакта до реализации. "
+        },
+        "contacts": null,
+        "schedule": {
+          "id": "fullDay",
+          "name": "Полный день"
+        },
+        "working_days": [],
+        "working_time_intervals": [],
+        "working_time_modes": [],
+        "accept_temporary": false,
+        "professional_roles": [
+          {
+            "id": "70",
+            "name": "Менеджер по продажам, менеджер по работе с клиентами"
+          }
+        ],
+        "accept_incomplete_resumes": false,
+        "experience": {
+          "id": "between1And3",
+          "name": "От 1 года до 3 лет"
+        },
+        "employment": {
+          "id": "full",
+          "name": "Полная занятость"
+        },
+        "adv_response_url": null,
+        "is_adv_vacancy": false,
+        "adv_context": null
+      },
+      {
+        "id": "93433680",
+        "premium": false,
+        "name": "Кладовщик",
+        "department": null,
+        "has_test": false,
+        "response_letter_required": false,
+        "area": {
+          "id": "1",
+          "name": "Москва",
+          "url": "https://api.hh.ru/areas/1"
+        },
+        "salary": {
+          "from": 60000,
+          "to": null,
+          "currency": "RUR",
+          "gross": false
+        },
+        "type": {
+          "id": "open",
+          "name": "Открытая"
+        },
+        "address": {
+          "city": "рабочий посёлок Нахабино",
+          "street": "улица Панфилова",
+          "building": "9Б",
+          "lat": 55.837075,
+          "lng": 37.177497,
+          "description": null,
+          "raw": "рабочий посёлок Нахабино, улица Панфилова, 9Б",
+          "metro": null,
+          "metro_stations": [],
+          "id": "14389904"
+        },
+        "response_url": null,
+        "sort_point_distance": null,
+        "published_at": "2024-04-01T16:59:52+0300",
+        "created_at": "2024-04-01T16:59:52+0300",
+        "archived": false,
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=93433680",
+        "show_logo_in_search": null,
+        "insider_interview": null,
+        "url": "https://api.hh.ru/vacancies/93433680?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/93433680",
+        "relations": [],
+        "employer": {
+          "id": "3302317",
+          "name": "ARTEL",
+          "url": "https://api.hh.ru/employers/3302317",
+          "alternate_url": "https://hh.ru/employer/3302317",
+          "logo_urls": {
+            "original": "https://img.hhcdn.ru/employer-logo-original/826616.png",
+            "90": "https://img.hhcdn.ru/employer-logo/3747347.png",
+            "240": "https://img.hhcdn.ru/employer-logo/3747348.png"
+          },
+          "vacancies_url": "https://api.hh.ru/vacancies?employer_id=3302317",
+          "accredited_it_employer": false,
+          "trusted": true
+        },
+        "snippet": {
+          "requirement": "Опыт работы на складе. Опыт работы в программе 1 С (желательно в конфигурации \"Управление торговлей\"). Обучаемость, исполнительность, внимательность, аккуратность и...",
+          "responsibility": "Складской учет и контроль за движением товара. Приемка товаров. Размещение товара на места хранения. Комплектация заказов. Комплектация и выдача комплектующих..."
+        },
+        "contacts": null,
+        "schedule": {
+          "id": "fullDay",
+          "name": "Полный день"
+        },
+        "working_days": [],
+        "working_time_intervals": [],
+        "working_time_modes": [],
+        "accept_temporary": false,
+        "professional_roles": [
+          {
+            "id": "52",
+            "name": "Кладовщик"
+          }
+        ],
+        "accept_incomplete_resumes": false,
+        "experience": {
+          "id": "between1And3",
+          "name": "От 1 года до 3 лет"
+        },
+        "employment": {
+          "id": "full",
+          "name": "Полная занятость"
+        },
+        "adv_response_url": null,
+        "is_adv_vacancy": false,
+        "adv_context": null
+      },
+      {
+        "id": "93780826",
+        "premium": false,
+        "name": "Монтажник-замерщик",
+        "department": null,
+        "has_test": false,
+        "response_letter_required": false,
+        "area": {
+          "id": "1",
+          "name": "Москва",
+          "url": "https://api.hh.ru/areas/1"
+        },
+        "salary": null,
+        "type": {
+          "id": "open",
+          "name": "Открытая"
+        },
+        "address": {
+          "city": "Москва",
+          "street": "Научный проезд",
+          "building": "8с1",
+          "lat": 55.655813,
+          "lng": 37.551519,
+          "description": null,
+          "raw": "Москва, Научный проезд, 8с1",
+          "metro": {
+            "station_name": "Калужская",
+            "line_name": "Калужско-Рижская",
+            "station_id": "6.41",
+            "line_id": "6",
+            "lat": 55.656682,
+            "lng": 37.540075
+          },
+          "metro_stations": [
+            {
+              "station_name": "Калужская",
+              "line_name": "Калужско-Рижская",
+              "station_id": "6.41",
+              "line_id": "6",
+              "lat": 55.656682,
+              "lng": 37.540075
+            }
+          ],
+          "id": "14323789"
+        },
+        "response_url": null,
+        "sort_point_distance": null,
+        "published_at": "2024-03-26T13:31:51+0300",
+        "created_at": "2024-03-26T13:31:51+0300",
+        "archived": false,
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=93780826",
+        "show_logo_in_search": null,
+        "insider_interview": null,
+        "url": "https://api.hh.ru/vacancies/93780826?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/93780826",
+        "relations": [],
+        "employer": {
+          "id": "3302317",
+          "name": "ARTEL",
+          "url": "https://api.hh.ru/employers/3302317",
+          "alternate_url": "https://hh.ru/employer/3302317",
+          "logo_urls": {
+            "original": "https://img.hhcdn.ru/employer-logo-original/826616.png",
+            "90": "https://img.hhcdn.ru/employer-logo/3747347.png",
+            "240": "https://img.hhcdn.ru/employer-logo/3747348.png"
+          },
+          "vacancies_url": "https://api.hh.ru/vacancies?employer_id=3302317",
+          "accredited_it_employer": false,
+          "trusted": true
+        },
+        "snippet": {
+          "requirement": "Приветствуется опыт работы на аналогичной должности. Ответственность, пунктуальность, аккуратность. Техническая грамотность, опыт работы с инструментом. Желательно наличие своего профессионального инструмента.",
+          "responsibility": "Осуществление замеров и установка готовых изделий (карнизов, рулонных штор, римских штор с электроприводомя) на объектах г.Москвы и Московской области. "
+        },
+        "contacts": null,
+        "schedule": {
+          "id": "fullDay",
+          "name": "Полный день"
+        },
+        "working_days": [],
+        "working_time_intervals": [],
+        "working_time_modes": [],
+        "accept_temporary": false,
+        "professional_roles": [
+          {
+            "id": "78",
+            "name": "Монтажник"
+          }
+        ],
+        "accept_incomplete_resumes": true,
+        "experience": {
+          "id": "between1And3",
+          "name": "От 1 года до 3 лет"
+        },
+        "employment": {
+          "id": "full",
+          "name": "Полная занятость"
+        },
+        "adv_response_url": null,
+        "is_adv_vacancy": false,
+        "adv_context": null
+      },
+      {
+        "id": "93797134",
+        "premium": false,
+        "name": "Рабочий на производство (электрокарнизов, рулонных штор, жалюзи)",
+        "department": null,
+        "has_test": false,
+        "response_letter_required": false,
+        "area": {
+          "id": "1",
+          "name": "Москва",
+          "url": "https://api.hh.ru/areas/1"
+        },
+        "salary": {
+          "from": 60000,
+          "to": null,
+          "currency": "RUR",
+          "gross": false
+        },
+        "type": {
+          "id": "open",
+          "name": "Открытая"
+        },
+        "address": {
+          "city": "рабочий посёлок Нахабино",
+          "street": "улица Панфилова",
+          "building": "9Б",
+          "lat": 55.837075,
+          "lng": 37.177497,
+          "description": null,
+          "raw": "рабочий посёлок Нахабино, улица Панфилова, 9Б",
+          "metro": null,
+          "metro_stations": [],
+          "id": "14389904"
+        },
+        "response_url": null,
+        "sort_point_distance": null,
+        "published_at": "2024-03-14T16:45:09+0300",
+        "created_at": "2024-03-14T16:45:09+0300",
+        "archived": false,
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=93797134",
+        "show_logo_in_search": null,
+        "insider_interview": null,
+        "url": "https://api.hh.ru/vacancies/93797134?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/93797134",
+        "relations": [],
+        "employer": {
+          "id": "3302317",
+          "name": "ARTEL",
+          "url": "https://api.hh.ru/employers/3302317",
+          "alternate_url": "https://hh.ru/employer/3302317",
+          "logo_urls": {
+            "original": "https://img.hhcdn.ru/employer-logo-original/826616.png",
+            "90": "https://img.hhcdn.ru/employer-logo/3747347.png",
+            "240": "https://img.hhcdn.ru/employer-logo/3747348.png"
+          },
+          "vacancies_url": "https://api.hh.ru/vacancies?employer_id=3302317",
+          "accredited_it_employer": false,
+          "trusted": true
+        },
+        "snippet": {
+          "requirement": "Техническая грамотность. Опыт работы с ручным и электроинструментом. Обучаемость, ответственность, исполнительность, внимательность, аккуратность и порядочность.",
+          "responsibility": "Сборка солнцезащитных конструкций (рулонных штор, электрокарнизов). Изготовление конструкций по индивидуальным заказам. Работа с электроинструментом."
+        },
+        "contacts": null,
+        "schedule": {
+          "id": "fullDay",
+          "name": "Полный день"
+        },
+        "working_days": [],
+        "working_time_intervals": [],
+        "working_time_modes": [],
+        "accept_temporary": false,
+        "professional_roles": [
+          {
+            "id": "162",
+            "name": "Мастер по ремонту оборудования, техники"
+          }
+        ],
+        "accept_incomplete_resumes": false,
+        "experience": {
+          "id": "between1And3",
+          "name": "От 1 года до 3 лет"
+        },
+        "employment": {
+          "id": "full",
+          "name": "Полная занятость"
+        },
+        "adv_response_url": null,
+        "is_adv_vacancy": false,
+        "adv_context": null
+      },
+      {
+        "id": "93230020",
+        "premium": false,
+        "name": "Старший группы отдела продаж",
+        "department": null,
+        "has_test": false,
+        "response_letter_required": false,
+        "area": {
+          "id": "1",
+          "name": "Москва",
+          "url": "https://api.hh.ru/areas/1"
+        },
+        "salary": null,
+        "type": {
+          "id": "open",
+          "name": "Открытая"
+        },
+        "address": {
+          "city": "Москва",
+          "street": "Научный проезд",
+          "building": "8с1",
+          "lat": 55.655813,
+          "lng": 37.551519,
+          "description": null,
+          "raw": "Москва, Научный проезд, 8с1",
+          "metro": {
+            "station_name": "Калужская",
+            "line_name": "Калужско-Рижская",
+            "station_id": "6.41",
+            "line_id": "6",
+            "lat": 55.656682,
+            "lng": 37.540075
+          },
+          "metro_stations": [
+            {
+              "station_name": "Калужская",
+              "line_name": "Калужско-Рижская",
+              "station_id": "6.41",
+              "line_id": "6",
+              "lat": 55.656682,
+              "lng": 37.540075
+            }
+          ],
+          "id": "14323789"
+        },
+        "response_url": null,
+        "sort_point_distance": null,
+        "published_at": "2024-03-28T10:04:48+0300",
+        "created_at": "2024-03-28T10:04:48+0300",
+        "archived": false,
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=93230020",
+        "show_logo_in_search": null,
+        "insider_interview": null,
+        "url": "https://api.hh.ru/vacancies/93230020?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/93230020",
+        "relations": [],
+        "employer": {
+          "id": "3302317",
+          "name": "ARTEL",
+          "url": "https://api.hh.ru/employers/3302317",
+          "alternate_url": "https://hh.ru/employer/3302317",
+          "logo_urls": {
+            "original": "https://img.hhcdn.ru/employer-logo-original/826616.png",
+            "90": "https://img.hhcdn.ru/employer-logo/3747347.png",
+            "240": "https://img.hhcdn.ru/employer-logo/3747348.png"
+          },
+          "vacancies_url": "https://api.hh.ru/vacancies?employer_id=3302317",
+          "accredited_it_employer": false,
+          "trusted": true
+        },
+        "snippet": {
+          "requirement": "Опыт управления людьми от 3-х лет. Навык ведения переговоров. Опыт анализа и планирование продаж. Знание и умение работать в...",
+          "responsibility": "Выполнение плана продаж группы. Анализ и планирование продаж. Личные продажи. Мониторинг рыночной ситуации, внесение предложений по ценовой политике компании, разработка..."
+        },
+        "contacts": null,
+        "schedule": {
+          "id": "fullDay",
+          "name": "Полный день"
+        },
+        "working_days": [],
+        "working_time_intervals": [],
+        "working_time_modes": [],
+        "accept_temporary": false,
+        "professional_roles": [
+          {
+            "id": "70",
+            "name": "Менеджер по продажам, менеджер по работе с клиентами"
+          }
+        ],
+        "accept_incomplete_resumes": false,
+        "experience": {
+          "id": "between3And6",
+          "name": "От 3 до 6 лет"
+        },
+        "employment": {
+          "id": "full",
+          "name": "Полная занятость"
+        },
+        "adv_response_url": null,
+        "is_adv_vacancy": false,
+        "adv_context": null
+      }
+    ]
+  },
+  {
+    "id": "4724218",
+    "trusted": true,
+    "accredited_it_employer": false,
+    "name": "2 полк 6 рота полиции УВО ВНГ России по г. Москве",
+    "type": "company",
+    "description": null,
+    "site_url": "https://uvo.ru/departments/2-polk/",
+    "alternate_url": "https://hh.ru/employer/4724218",
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=4724218",
+    "logo_urls": {
+      "90": "https://img.hhcdn.ru/employer-logo/4220448.jpeg",
+      "240": "https://img.hhcdn.ru/employer-logo/4220449.jpeg",
+      "original": "https://img.hhcdn.ru/employer-logo-original/944978.jpeg"
+    },
+    "relations": [],
+    "area": {
+      "id": "1",
+      "name": "Москва",
+      "url": "https://api.hh.ru/areas/1"
+    },
+    "industries": [],
+    "branded_description": null,
+    "branding": null,
+    "insider_interviews": [],
+    "open_vacancies": 1,
+    "vacancies": [
+      {
+        "id": "96290735",
+        "premium": false,
+        "name": "Полицейский",
+        "department": null,
+        "has_test": false,
+        "response_letter_required": false,
+        "area": {
+          "id": "1",
+          "name": "Москва",
+          "url": "https://api.hh.ru/areas/1"
+        },
+        "salary": {
+          "from": 60000,
+          "to": 90000,
+          "currency": "RUR",
+          "gross": false
+        },
+        "type": {
+          "id": "open",
+          "name": "Открытая"
+        },
+        "address": {
+          "city": "Москва",
+          "street": "Волоколамское шоссе",
+          "building": "75",
+          "lat": 55.825366,
+          "lng": 37.427049,
+          "description": null,
+          "raw": "Москва, Волоколамское шоссе, 75",
+          "metro": {
+            "station_name": "Тушинская",
+            "line_name": "Таганско-Краснопресненская",
+            "station_id": "7.145",
+            "line_id": "7",
+            "lat": 55.825479,
+            "lng": 37.437024
+          },
+          "metro_stations": [
+            {
+              "station_name": "Тушинская",
+              "line_name": "Таганско-Краснопресненская",
+              "station_id": "7.145",
+              "line_id": "7",
+              "lat": 55.825479,
+              "lng": 37.437024
+            }
+          ],
+          "id": "3949660"
+        },
+        "response_url": null,
+        "sort_point_distance": null,
+        "published_at": "2024-04-08T20:50:57+0300",
+        "created_at": "2024-04-08T20:50:57+0300",
+        "archived": false,
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=96290735",
+        "show_logo_in_search": null,
+        "insider_interview": null,
+        "url": "https://api.hh.ru/vacancies/96290735?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/96290735",
+        "relations": [],
+        "employer": {
+          "id": "4724218",
+          "name": "2 полк 6 рота полиции УВО ВНГ России по г. Москве",
+          "url": "https://api.hh.ru/employers/4724218",
+          "alternate_url": "https://hh.ru/employer/4724218",
+          "logo_urls": {
+            "original": "https://img.hhcdn.ru/employer-logo-original/944978.jpeg",
+            "240": "https://img.hhcdn.ru/employer-logo/4220449.jpeg",
+            "90": "https://img.hhcdn.ru/employer-logo/4220448.jpeg"
+          },
+          "vacancies_url": "https://api.hh.ru/vacancies?employer_id=4724218",
+          "accredited_it_employer": false,
+          "trusted": true
+        },
+        "snippet": {
+          "requirement": "Образование минимум 11 классов(полное) среднее. Отслуживших в армии (для военнообязанных). Здоровье от категории А до Б-3 (для военнообязанных).",
+          "responsibility": "Охрана финансовых учреждений (ЦБ РФ, ВТБ, ВЭБ). Охрана общественного порядка и обеспечение общественной безопасности при проведении массовых мероприятий и чрезвычайных..."
+        },
+        "contacts": null,
+        "schedule": {
+          "id": "shift",
+          "name": "Сменный график"
+        },
+        "working_days": [],
+        "working_time_intervals": [],
+        "working_time_modes": [],
+        "accept_temporary": false,
+        "professional_roles": [
+          {
+            "id": "95",
+            "name": "Полицейский"
+          }
+        ],
+        "accept_incomplete_resumes": true,
+        "experience": {
+          "id": "noExperience",
+          "name": "Нет опыта"
+        },
+        "employment": {
+          "id": "full",
+          "name": "Полная занятость"
+        },
+        "adv_response_url": null,
+        "is_adv_vacancy": false,
+        "adv_context": null
+      }
+    ]
+  }
+]
