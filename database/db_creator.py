@@ -20,6 +20,9 @@ class DBCreator:
 
     @staticmethod
     def __create_database() -> None:
+        '''
+        Создает базу данных
+        '''
         conn = psycopg2.connect(dbname='postgres', **params)
         conn.autocommit = True
         cur = conn.cursor()
@@ -30,6 +33,9 @@ class DBCreator:
 
     @classmethod
     def create_tables(cls) -> None:
+        '''
+        Создает таблицы
+        '''
         cls.__create_database()
         with psycopg2.connect(dbname=DB_NAME, **params) as conn:
             with conn.cursor() as cur:
@@ -38,8 +44,8 @@ class DBCreator:
                 
                 CREATE TABLE company (
                     company_id INT PRIMARY KEY,
-                    company_name VARCHAR(50) NOT NULL,
-                    company_link VARCHAR(50)
+                    company_name VARCHAR(255) NOT NULL,
+                    company_link VARCHAR(255)
                 );
                 ''')
 
@@ -48,20 +54,24 @@ class DBCreator:
                 
                 CREATE TABLE vacancy (
                     vacancy_id SERIAL PRIMARY KEY,
-                    vacancy_title VARCHAR(50) NOT NULL,
+                    vacancy_title VARCHAR(255) NOT NULL,
                     company_id INT,
                     salary INT,
-                    location VARCHAR(50)
+                    location VARCHAR(50),
+                    vacancy_link VARCHAR(255),
                     
                     CONSTRAINT fk_company FOREIGN KEY (company_id) 
                     REFERENCES company(company_id)
                     ON DELETE CASCADE,
-                    CONSTRAINT chk_salary CHECK (vacancy_salary >= 0)
+                    CONSTRAINT chk_salary CHECK (salary >= 0)
                 );
                 ''')
 
     @classmethod
     def insert_data(cls):
+        '''
+        Заполняет таблицы
+        '''
         data = cls.__read_data()
         with psycopg2.connect(dbname=DB_NAME, **params) as conn:
             with conn.cursor() as cur:
@@ -82,10 +92,11 @@ class DBCreator:
                         vacancy_title = v.get('name')
                         salary = v.get('salary').get('from') if v.get('salary') else None
                         location = v.get('area').get('name') if v.get('area') else None
+                        vacancy_link = v.get('alternate_url')
 
                         cur.execute('''
-                        INSERT INTO vacancy (vacancy_title, company_id, vacancy_salary, location)
-                        VALUES (%s, %s, %s)
-                        ''', (vacancy_title, company_id, salary))
+                        INSERT INTO vacancy (vacancy_title, company_id, salary, location, vacancy_link)
+                        VALUES (%s, %s, %s, %s, %s)
+                        ''', (vacancy_title, company_id, salary, location, vacancy_link))
 
                 conn.commit()

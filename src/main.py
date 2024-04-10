@@ -1,4 +1,5 @@
 from database.db_creator import DBCreator
+from database.db_manager import DBManager
 from fetch.hh_api import HhApi
 
 companies = {
@@ -16,8 +17,22 @@ companies = {
 
 
 def main():
-    hh_api = HhApi(companies)
-    hh_api.fetch_data()
+
+    # hh_api = HhApi(companies)
+    # hh_api.fetch_data()
+
+    # DBCreator.create_tables()
+    # DBCreator.insert_data()
+
+    # vacancies_num_by_company = DBManager.get_companies_and_vacancies_count()
+    #
+    # all_vacancies = DBManager.get_all_vacancies()
+    #
+    # avg_salary = DBManager.get_avg_salary()
+    #
+    # vacancies_with_higher_salary = DBManager.get_vacancies_with_higher_salary()
+    #
+    # searched_result = DBManager.get_vacancies_with_keyword('сторож')
 
 
 if __name__ == '__main__':
