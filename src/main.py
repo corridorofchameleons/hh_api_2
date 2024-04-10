@@ -1,8 +1,9 @@
 from utils.hh_api import HhApi
+from utils.db_manager import DBCreator
 
 
 def main():
-    HhApi.fetch_data()
+    DBCreator.insert_data()
 
 
 if __name__ == '__main__':

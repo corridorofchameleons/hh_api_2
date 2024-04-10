@@ -12,7 +12,7 @@ class HhApi:
         'Artel': '3302317',
         'Police': '4724218',
     }
-    FILE = 'data/temp/companies.json'
+    FILE = '../data/temp/companies.json'
 
     @classmethod
     def __get_data(cls, company_id: str) -> dict:

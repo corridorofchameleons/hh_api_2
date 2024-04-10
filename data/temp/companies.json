@@ -78,8 +78,8 @@
         },
         "response_url": null,
         "sort_point_distance": null,
-        "published_at": "2024-03-25T09:08:13+0300",
-        "created_at": "2024-03-25T09:08:13+0300",
+        "published_at": "2024-04-09T13:58:46+0300",
+        "created_at": "2024-04-09T13:58:46+0300",
         "archived": false,
         "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=83224602",
         "show_logo_in_search": null,
@@ -118,97 +118,6 @@
           {
             "id": "70",
             "name": "Менеджер по продажам, менеджер по работе с клиентами"
-          }
-        ],
-        "accept_incomplete_resumes": false,
-        "experience": {
-          "id": "between1And3",
-          "name": "От 1 года до 3 лет"
-        },
-        "employment": {
-          "id": "full",
-          "name": "Полная занятость"
-        },
-        "adv_response_url": null,
-        "is_adv_vacancy": false,
-        "adv_context": null
-      },
-      {
-        "id": "93433680",
-        "premium": false,
-        "name": "Кладовщик",
-        "department": null,
-        "has_test": false,
-        "response_letter_required": false,
-        "area": {
-          "id": "1",
-          "name": "Москва",
-          "url": "https://api.hh.ru/areas/1"
-        },
-        "salary": {
-          "from": 60000,
-          "to": null,
-          "currency": "RUR",
-          "gross": false
-        },
-        "type": {
-          "id": "open",
-          "name": "Открытая"
-        },
-        "address": {
-          "city": "рабочий посёлок Нахабино",
-          "street": "улица Панфилова",
-          "building": "9Б",
-          "lat": 55.837075,
-          "lng": 37.177497,
-          "description": null,
-          "raw": "рабочий посёлок Нахабино, улица Панфилова, 9Б",
-          "metro": null,
-          "metro_stations": [],
-          "id": "14389904"
-        },
-        "response_url": null,
-        "sort_point_distance": null,
-        "published_at": "2024-04-01T16:59:52+0300",
-        "created_at": "2024-04-01T16:59:52+0300",
-        "archived": false,
-        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=93433680",
-        "show_logo_in_search": null,
-        "insider_interview": null,
-        "url": "https://api.hh.ru/vacancies/93433680?host=hh.ru",
-        "alternate_url": "https://hh.ru/vacancy/93433680",
-        "relations": [],
-        "employer": {
-          "id": "3302317",
-          "name": "ARTEL",
-          "url": "https://api.hh.ru/employers/3302317",
-          "alternate_url": "https://hh.ru/employer/3302317",
-          "logo_urls": {
-            "original": "https://img.hhcdn.ru/employer-logo-original/826616.png",
-            "90": "https://img.hhcdn.ru/employer-logo/3747347.png",
-            "240": "https://img.hhcdn.ru/employer-logo/3747348.png"
-          },
-          "vacancies_url": "https://api.hh.ru/vacancies?employer_id=3302317",
-          "accredited_it_employer": false,
-          "trusted": true
-        },
-        "snippet": {
-          "requirement": "Опыт работы на складе. Опыт работы в программе 1 С (желательно в конфигурации \"Управление торговлей\"). Обучаемость, исполнительность, внимательность, аккуратность и...",
-          "responsibility": "Складской учет и контроль за движением товара. Приемка товаров. Размещение товара на места хранения. Комплектация заказов. Комплектация и выдача комплектующих..."
-        },
-        "contacts": null,
-        "schedule": {
-          "id": "fullDay",
-          "name": "Полный день"
-        },
-        "working_days": [],
-        "working_time_intervals": [],
-        "working_time_modes": [],
-        "accept_temporary": false,
-        "professional_roles": [
-          {
-            "id": "52",
-            "name": "Кладовщик"
           }
         ],
         "accept_incomplete_resumes": false,
@@ -327,6 +236,199 @@
         "adv_context": null
       },
       {
+        "id": "93230020",
+        "premium": false,
+        "name": "Старший группы отдела продаж",
+        "department": null,
+        "has_test": false,
+        "response_letter_required": false,
+        "area": {
+          "id": "1",
+          "name": "Москва",
+          "url": "https://api.hh.ru/areas/1"
+        },
+        "salary": null,
+        "type": {
+          "id": "open",
+          "name": "Открытая"
+        },
+        "address": {
+          "city": "Москва",
+          "street": "Научный проезд",
+          "building": "8с1",
+          "lat": 55.655813,
+          "lng": 37.551519,
+          "description": null,
+          "raw": "Москва, Научный проезд, 8с1",
+          "metro": {
+            "station_name": "Калужская",
+            "line_name": "Калужско-Рижская",
+            "station_id": "6.41",
+            "line_id": "6",
+            "lat": 55.656682,
+            "lng": 37.540075
+          },
+          "metro_stations": [
+            {
+              "station_name": "Калужская",
+              "line_name": "Калужско-Рижская",
+              "station_id": "6.41",
+              "line_id": "6",
+              "lat": 55.656682,
+              "lng": 37.540075
+            }
+          ],
+          "id": "14323789"
+        },
+        "response_url": null,
+        "sort_point_distance": null,
+        "published_at": "2024-04-10T08:51:04+0300",
+        "created_at": "2024-04-10T08:51:04+0300",
+        "archived": false,
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=93230020",
+        "show_logo_in_search": null,
+        "insider_interview": null,
+        "url": "https://api.hh.ru/vacancies/93230020?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/93230020",
+        "relations": [],
+        "employer": {
+          "id": "3302317",
+          "name": "ARTEL",
+          "url": "https://api.hh.ru/employers/3302317",
+          "alternate_url": "https://hh.ru/employer/3302317",
+          "logo_urls": {
+            "original": "https://img.hhcdn.ru/employer-logo-original/826616.png",
+            "90": "https://img.hhcdn.ru/employer-logo/3747347.png",
+            "240": "https://img.hhcdn.ru/employer-logo/3747348.png"
+          },
+          "vacancies_url": "https://api.hh.ru/vacancies?employer_id=3302317",
+          "accredited_it_employer": false,
+          "trusted": true
+        },
+        "snippet": {
+          "requirement": "Опыт управления людьми от 3-х лет. Навык ведения переговоров. Опыт анализа и планирование продаж. Знание и умение работать в...",
+          "responsibility": "Выполнение плана продаж группы. Анализ и планирование продаж. Личные продажи. Мониторинг рыночной ситуации, внесение предложений по ценовой политике компании, разработка..."
+        },
+        "contacts": null,
+        "schedule": {
+          "id": "fullDay",
+          "name": "Полный день"
+        },
+        "working_days": [],
+        "working_time_intervals": [],
+        "working_time_modes": [],
+        "accept_temporary": false,
+        "professional_roles": [
+          {
+            "id": "70",
+            "name": "Менеджер по продажам, менеджер по работе с клиентами"
+          }
+        ],
+        "accept_incomplete_resumes": false,
+        "experience": {
+          "id": "between3And6",
+          "name": "От 3 до 6 лет"
+        },
+        "employment": {
+          "id": "full",
+          "name": "Полная занятость"
+        },
+        "adv_response_url": null,
+        "is_adv_vacancy": false,
+        "adv_context": null
+      },
+      {
+        "id": "93433680",
+        "premium": false,
+        "name": "Кладовщик",
+        "department": null,
+        "has_test": false,
+        "response_letter_required": false,
+        "area": {
+          "id": "1",
+          "name": "Москва",
+          "url": "https://api.hh.ru/areas/1"
+        },
+        "salary": {
+          "from": 60000,
+          "to": null,
+          "currency": "RUR",
+          "gross": false
+        },
+        "type": {
+          "id": "open",
+          "name": "Открытая"
+        },
+        "address": {
+          "city": "рабочий посёлок Нахабино",
+          "street": "улица Панфилова",
+          "building": "9Б",
+          "lat": 55.837075,
+          "lng": 37.177497,
+          "description": null,
+          "raw": "рабочий посёлок Нахабино, улица Панфилова, 9Б",
+          "metro": null,
+          "metro_stations": [],
+          "id": "14389904"
+        },
+        "response_url": null,
+        "sort_point_distance": null,
+        "published_at": "2024-04-10T08:55:42+0300",
+        "created_at": "2024-04-10T08:55:42+0300",
+        "archived": false,
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=93433680",
+        "show_logo_in_search": null,
+        "insider_interview": null,
+        "url": "https://api.hh.ru/vacancies/93433680?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/93433680",
+        "relations": [],
+        "employer": {
+          "id": "3302317",
+          "name": "ARTEL",
+          "url": "https://api.hh.ru/employers/3302317",
+          "alternate_url": "https://hh.ru/employer/3302317",
+          "logo_urls": {
+            "original": "https://img.hhcdn.ru/employer-logo-original/826616.png",
+            "90": "https://img.hhcdn.ru/employer-logo/3747347.png",
+            "240": "https://img.hhcdn.ru/employer-logo/3747348.png"
+          },
+          "vacancies_url": "https://api.hh.ru/vacancies?employer_id=3302317",
+          "accredited_it_employer": false,
+          "trusted": true
+        },
+        "snippet": {
+          "requirement": "Опыт работы на складе. Опыт работы в программе 1 С (желательно в конфигурации \"Управление торговлей\"). Обучаемость, исполнительность, внимательность, аккуратность и...",
+          "responsibility": "Складской учет и контроль за движением товара. Приемка и размещение товаров. Комплектация и выдача комплектующих в производство. Ведение складского учета..."
+        },
+        "contacts": null,
+        "schedule": {
+          "id": "fullDay",
+          "name": "Полный день"
+        },
+        "working_days": [],
+        "working_time_intervals": [],
+        "working_time_modes": [],
+        "accept_temporary": false,
+        "professional_roles": [
+          {
+            "id": "52",
+            "name": "Кладовщик"
+          }
+        ],
+        "accept_incomplete_resumes": false,
+        "experience": {
+          "id": "between1And3",
+          "name": "От 1 года до 3 лет"
+        },
+        "employment": {
+          "id": "full",
+          "name": "Полная занятость"
+        },
+        "adv_response_url": null,
+        "is_adv_vacancy": false,
+        "adv_context": null
+      },
+      {
         "id": "93797134",
         "premium": false,
         "name": "Рабочий на производство (электрокарнизов, рулонных штор, жалюзи)",
@@ -416,108 +518,6 @@
         "adv_response_url": null,
         "is_adv_vacancy": false,
         "adv_context": null
-      },
-      {
-        "id": "93230020",
-        "premium": false,
-        "name": "Старший группы отдела продаж",
-        "department": null,
-        "has_test": false,
-        "response_letter_required": false,
-        "area": {
-          "id": "1",
-          "name": "Москва",
-          "url": "https://api.hh.ru/areas/1"
-        },
-        "salary": null,
-        "type": {
-          "id": "open",
-          "name": "Открытая"
-        },
-        "address": {
-          "city": "Москва",
-          "street": "Научный проезд",
-          "building": "8с1",
-          "lat": 55.655813,
-          "lng": 37.551519,
-          "description": null,
-          "raw": "Москва, Научный проезд, 8с1",
-          "metro": {
-            "station_name": "Калужская",
-            "line_name": "Калужско-Рижская",
-            "station_id": "6.41",
-            "line_id": "6",
-            "lat": 55.656682,
-            "lng": 37.540075
-          },
-          "metro_stations": [
-            {
-              "station_name": "Калужская",
-              "line_name": "Калужско-Рижская",
-              "station_id": "6.41",
-              "line_id": "6",
-              "lat": 55.656682,
-              "lng": 37.540075
-            }
-          ],
-          "id": "14323789"
-        },
-        "response_url": null,
-        "sort_point_distance": null,
-        "published_at": "2024-03-28T10:04:48+0300",
-        "created_at": "2024-03-28T10:04:48+0300",
-        "archived": false,
-        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=93230020",
-        "show_logo_in_search": null,
-        "insider_interview": null,
-        "url": "https://api.hh.ru/vacancies/93230020?host=hh.ru",
-        "alternate_url": "https://hh.ru/vacancy/93230020",
-        "relations": [],
-        "employer": {
-          "id": "3302317",
-          "name": "ARTEL",
-          "url": "https://api.hh.ru/employers/3302317",
-          "alternate_url": "https://hh.ru/employer/3302317",
-          "logo_urls": {
-            "original": "https://img.hhcdn.ru/employer-logo-original/826616.png",
-            "90": "https://img.hhcdn.ru/employer-logo/3747347.png",
-            "240": "https://img.hhcdn.ru/employer-logo/3747348.png"
-          },
-          "vacancies_url": "https://api.hh.ru/vacancies?employer_id=3302317",
-          "accredited_it_employer": false,
-          "trusted": true
-        },
-        "snippet": {
-          "requirement": "Опыт управления людьми от 3-х лет. Навык ведения переговоров. Опыт анализа и планирование продаж. Знание и умение работать в...",
-          "responsibility": "Выполнение плана продаж группы. Анализ и планирование продаж. Личные продажи. Мониторинг рыночной ситуации, внесение предложений по ценовой политике компании, разработка..."
-        },
-        "contacts": null,
-        "schedule": {
-          "id": "fullDay",
-          "name": "Полный день"
-        },
-        "working_days": [],
-        "working_time_intervals": [],
-        "working_time_modes": [],
-        "accept_temporary": false,
-        "professional_roles": [
-          {
-            "id": "70",
-            "name": "Менеджер по продажам, менеджер по работе с клиентами"
-          }
-        ],
-        "accept_incomplete_resumes": false,
-        "experience": {
-          "id": "between3And6",
-          "name": "От 3 до 6 лет"
-        },
-        "employment": {
-          "id": "full",
-          "name": "Полная занятость"
-        },
-        "adv_response_url": null,
-        "is_adv_vacancy": false,
-        "adv_context": null
       }
     ]
   },
@@ -532,9 +532,9 @@
     "alternate_url": "https://hh.ru/employer/4724218",
     "vacancies_url": "https://api.hh.ru/vacancies?employer_id=4724218",
     "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/944978.jpeg",
       "90": "https://img.hhcdn.ru/employer-logo/4220448.jpeg",
-      "240": "https://img.hhcdn.ru/employer-logo/4220449.jpeg",
-      "original": "https://img.hhcdn.ru/employer-logo-original/944978.jpeg"
+      "240": "https://img.hhcdn.ru/employer-logo/4220449.jpeg"
     },
     "relations": [],
     "area": {
