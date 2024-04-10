@@ -28,8 +28,8 @@ def main():
     #
     # all_vacancies = DBManager.get_all_vacancies()
     #
-    # avg_salary = DBManager.get_avg_salary()
-    #
+    avg_salary = DBManager.get_avg_salary()
+    print(avg_salary)
     # vacancies_with_higher_salary = DBManager.get_vacancies_with_higher_salary()
     #
     # searched_result = DBManager.get_vacancies_with_keyword('сторож')
