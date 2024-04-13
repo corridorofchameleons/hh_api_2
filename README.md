@@ -28,16 +28,15 @@ hh_api.fetch_data()
 _Данные записываются во временное хранилище: **data/temp/companies.json**_
 3. Раскомментировать и запустить
 ```commandline
-DBCreator.create_tables()
-DBCreator.insert_data()
+db_man.create_tables()
+db_man.insert_data()
 ```
 для создания БД, таблиц и записи в них данных.<br />
 Закомментировать.
 
 ## Как работать с данными
 
-Для работы с данными нужно воспользоваться классом **DBManager** из модуля **database.db_manager**.
-При этом создавать экземпляр класса не обязательно.<br />
+Для работы с данными необходимо воспользоваться методами класса DBManager, используя уже созданный экземпляр.<br />
 
 ### _Методы DBManager_
 get_companies_and_vacancies_count()
