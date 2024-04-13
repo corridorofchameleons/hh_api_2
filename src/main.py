@@ -1,4 +1,3 @@
-from database.db_creator import DBCreator
 from database.db_manager import DBManager
 from fetch.hh_api import HhApi
 
@@ -17,22 +16,24 @@ companies = {
 
 
 def main():
-
-    # hh_api = HhApi(companies)
+    hh_api = HhApi(companies)
     # hh_api.fetch_data()
 
-    # DBCreator.create_tables()
-    # DBCreator.insert_data()
+    db_man = DBManager()
+    # db_man.create_tables()
+    # db_man.insert_data()
 
-    # vacancies_num_by_company = DBManager.get_companies_and_vacancies_count()
-    #
-    # all_vacancies = DBManager.get_all_vacancies()
-    #
-    # avg_salary = DBManager.get_avg_salary()
-    #
-    # vacancies_with_higher_salary = DBManager.get_vacancies_with_higher_salary()
-    #
-    # searched_result = DBManager.get_vacancies_with_keyword('сторож')
+    vacancies_num_by_company = db_man.get_companies_and_vacancies_count()
+    all_vacancies = db_man.get_all_vacancies()
+    avg_salary = db_man.get_avg_salary()
+    vacancies_with_higher_salary = db_man.get_vacancies_with_higher_salary()
+    searched_result = db_man.get_vacancies_with_keyword('полицейский')
+
+    print(vacancies_num_by_company)
+    print(all_vacancies)
+    print(avg_salary)
+    print(vacancies_with_higher_salary)
+    print(searched_result)
 
 
 if __name__ == '__main__':

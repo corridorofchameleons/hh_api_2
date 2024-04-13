@@ -48,6 +48,7 @@ class HhApi:
         '''
         data = self.__get_company_list()
         print(f'Получены данные по {self.__fetched} компании/ям из {len(self.__companies)}')
+        self.__fetched = 0
 
         with open(self.__file, 'w') as f:
             json.dump(data, f, ensure_ascii=False)
