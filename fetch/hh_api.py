@@ -28,6 +28,8 @@ class HhApi:
             vacancies = vacancies_data.json().get('items')
             company['vacancies'] = vacancies
             self.__fetched += 1
+        else:
+            return None
 
         return company
 
@@ -38,7 +40,8 @@ class HhApi:
         result = []
         for company_id in self.__companies.values():
             data = self.__get_data(company_id)
-            result.append(data)
+            if data:
+                result.append(data)
 
         return result
 

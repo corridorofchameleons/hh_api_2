@@ -1,0 +1,44 @@
+[
+  {
+    "id": "1",
+    "name": "ИП Вадим Вереин",
+    "site_url": "https://vadim.verein",
+    "vacancies": [{
+      "name": "Сваршик",
+      "salary": {
+        "from": 25000
+      },
+      "area": {
+        "name": "Екатеринбург"
+      },
+      "alternate_url": "fake_link"
+    }]
+  },
+  {
+    "id": "2",
+    "name": "Metallica",
+    "site_url": "https://metallica.com",
+    "vacancies": [
+      {
+        "name": "Автор хороших песен",
+        "salary": {
+          "from": 75000
+        },
+        "area": {
+          "name": "LA"
+        },
+        "alternate_url": "fake_link_2"
+      },
+      {
+        "name": "Тренер Ларса",
+        "salary": {
+          "from": null
+        },
+        "area": {
+          "name": "LA"
+        },
+        "alternate_url": "fake_link_3"
+      }
+    ]
+  }
+]

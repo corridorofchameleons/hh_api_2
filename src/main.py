@@ -17,11 +17,11 @@ companies = {
 
 def main():
     hh_api = HhApi(companies)
-    # hh_api.fetch_data()
+    hh_api.fetch_data()
 
     db_man = DBManager()
-    # db_man.create_tables()
-    # db_man.insert_data()
+    db_man.create_tables()
+    db_man.insert_data()
 
     vacancies_num_by_company = db_man.get_companies_and_vacancies_count()
     all_vacancies = db_man.get_all_vacancies()
